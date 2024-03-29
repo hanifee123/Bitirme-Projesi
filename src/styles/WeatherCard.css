@@ -1,0 +1,16 @@
+.weather-card {
+    border: 2px solid #ff69b4;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .weather-card-header {
+    background-color: #ff69b4;
+    color: white;
+    padding: 10px;
+  }
+  
+  .weather-card-body {
+    padding: 15px;
+  }
+  

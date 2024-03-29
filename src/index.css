@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fcfcf4;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.bg-light-pink {
+  background-color: #f8edeb;
+}
+
+.text-pink {
+  color: #ff6b6b;
+}
+
+.border-pink {
+  border-color: #ff6b6b;
+}
+
+.rounded-pink {
+  border-radius: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
